@@ -11,6 +11,10 @@ chapter: true
 
 ```
 
+
+
+
+
 # Introdução à Estatística e Suas Aplicações
 
 Notas conceituais sobre estatística e suas aplicações.
